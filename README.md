@@ -1,0 +1,4 @@
+GrailsSpringIntegrationTutorial
+===============================
+
+Grails SpringIntegration HelloWorld 
